@@ -38,5 +38,6 @@
 /Users/Derek/booksmart/booksmart/platforms/android/ant-build/classes/org/apache/cordova/geolocation/GeoBroker.class \
 /Users/Derek/booksmart/booksmart/platforms/android/ant-build/classes/org/apache/cordova/geolocation/GPSListener.class \
 /Users/Derek/booksmart/booksmart/platforms/android/ant-build/classes/org/apache/cordova/geolocation/NetworkListener.class \
+/Users/Derek/booksmart/booksmart/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen.class \
 /Users/Derek/booksmart/booksmart/platforms/android/ant-build/dexedLibs/classes-37fed97495e9a92584d1d9c61572e38b.jar \
 /Users/Derek/booksmart/booksmart/platforms/android/ant-build/dexedLibs/com.google.zxing.client.android.captureactivity-fd476ba0d44de592f9a80075b82eda6c.jar \

@@ -50,6 +50,7 @@
 		0AA644B3963A4FD7A9BE1DDF /* CDVNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = ABA92A1C95614D69AC527346 /* CDVNotification.m */; };
 		BBFF17FD5990431E8884F5F1 /* CDVNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E294B7D55D49437CBA2C1409 /* CDVNotification.bundle */; };
 		0B86542EB3B1400DABA109E3 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 250C11744812427B861505AB /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		C34E738E90CE483DBAC7DA30 /* CDVSplashScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = E2C1B0E15DB94657882D1D74 /* CDVSplashScreen.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -130,6 +131,8 @@
 		4D9E2477691642B2AA19A7B0 /* CDVNotification.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVNotification.h"; path = "org.apache.cordova.dialogs/CDVNotification.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		E294B7D55D49437CBA2C1409 /* CDVNotification.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = "CDVNotification.bundle"; path = "CDVNotification.bundle"; sourceTree = "<group>"; };
 		250C11744812427B861505AB /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "AudioToolbox.framework"; path = "System/Library/Frameworks/AudioToolbox.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
+		E2C1B0E15DB94657882D1D74 /* CDVSplashScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVSplashScreen.m"; path = "org.apache.cordova.splashscreen/CDVSplashScreen.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		7C582B2FC01D461CA031FA85 /* CDVSplashScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVSplashScreen.h"; path = "org.apache.cordova.splashscreen/CDVSplashScreen.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -271,6 +274,8 @@
 				5CF4622B655C4CCDAAEF4D9A /* zxing-all-in-one.h */,
 				ABA92A1C95614D69AC527346 /* CDVNotification.m */,
 				4D9E2477691642B2AA19A7B0 /* CDVNotification.h */,
+				E2C1B0E15DB94657882D1D74 /* CDVSplashScreen.m */,
+				7C582B2FC01D461CA031FA85 /* CDVSplashScreen.h */,
 			);
 			name = Plugins;
 			path = BookSmart/Plugins;
@@ -477,6 +482,7 @@
 				F307920DB8BD445AB3F73A9C /* CDVBarcodeScanner.mm in Sources */,
 				B285D12104B74C539A9AE61D /* zxing-all-in-one.cpp in Sources */,
 				0AA644B3963A4FD7A9BE1DDF /* CDVNotification.m in Sources */,
+				C34E738E90CE483DBAC7DA30 /* CDVSplashScreen.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

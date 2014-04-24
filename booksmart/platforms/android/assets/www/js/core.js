@@ -47,8 +47,7 @@ var core = {
         $('#results').css('height', 'calc(100% - ' + ($('#header').height() + $('#search-form').height()) + 'px)');
         $('#right-side-page').css('height', 'calc(100% - ' + ($('#header').height()) + 'px)');
         $('#right-side-page').css('top', $('#header').height() + 'px');
-        
-        
+        navigator.splashscreen.hide();
         if($('#right-side-page').css('left') === '0px') {
             $('#right-side-page').css('left', '-100%');
         }

@@ -23,6 +23,10 @@
                         {
                             "xml": "<feature name=\"Geolocation\"><param name=\"android-package\" value=\"org.apache.cordova.geolocation.GeoBroker\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"SplashScreen\"><param name=\"android-package\" value=\"org.apache.cordova.splashscreen.SplashScreen\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -564,6 +568,9 @@
             "PACKAGE_NAME": "edu.fsu.booksmart"
         },
         "org.apache.cordova.geolocation": {
+            "PACKAGE_NAME": "edu.fsu.booksmart"
+        },
+        "org.apache.cordova.splashscreen": {
             "PACKAGE_NAME": "edu.fsu.booksmart"
         }
     },

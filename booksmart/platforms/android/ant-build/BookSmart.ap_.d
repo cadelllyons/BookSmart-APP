@@ -86,7 +86,6 @@
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/css/index.css \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/img/loading.gif \
-/Users/Derek/booksmart/booksmart/platforms/android/assets/www/img/logo.png \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/img/menu-icon.png \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/img/plus-icon.png \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/js/core.js \
@@ -103,6 +102,7 @@
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/org.apache.cordova.device \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/org.apache.cordova.dialogs \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/org.apache.cordova.geolocation \
+/Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/com.phonegap.plugins.barcodescanner/www \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/org.apache.cordova.device/www \
@@ -116,4 +116,6 @@
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/org.apache.cordova.geolocation/www/geolocation.js \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/org.apache.cordova.geolocation/www/Position.js \
 /Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/org.apache.cordova.geolocation/www/PositionError.js \
+/Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www \
+/Users/Derek/booksmart/booksmart/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www/splashscreen.js \
 /Users/Derek/booksmart/booksmart/platforms/android/ant-build/AndroidManifest.xml \

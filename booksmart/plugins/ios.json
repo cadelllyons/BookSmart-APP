@@ -23,6 +23,10 @@
                         {
                             "xml": "<feature name=\"Notification\"><param name=\"ios-package\" value=\"CDVNotification\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"SplashScreen\"><param name=\"ios-package\" value=\"CDVSplashScreen\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -64,6 +68,12 @@
                             "xml": "true",
                             "count": 1
                         }
+                    ],
+                    "CoreGraphics.framework": [
+                        {
+                            "xml": "false",
+                            "count": 1
+                        }
                     ]
                 }
             }
@@ -80,6 +90,9 @@
             "PACKAGE_NAME": "edu.fsu.booksmart"
         },
         "org.apache.cordova.dialogs": {
+            "PACKAGE_NAME": "edu.fsu.booksmart"
+        },
+        "org.apache.cordova.splashscreen": {
             "PACKAGE_NAME": "edu.fsu.booksmart"
         }
     },
