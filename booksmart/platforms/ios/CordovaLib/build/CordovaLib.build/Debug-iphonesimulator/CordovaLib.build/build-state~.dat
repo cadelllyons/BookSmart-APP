@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533CE81D00000000000003B4
+t1396500509
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533CE824000000000000019E
+t1396500516
+s414
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDV.h
+c00000000534C0C490000000000000516
+t1397492809
+s1302
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c00000000534C0C490000000000000CFB
+t1397492809
+s3323
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c00000000534C0C4900000000000008BA
+t1397492809
+s2234
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c00000000534C0C4900000000000004E2
+t1397492809
+s1250
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c00000000534C0C49000000000000183A
+t1397492809
+s6202
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c00000000534C0C490000000000000503
+t1397492809
+s1283
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c00000000534C0C490000000000001ED0
+t1397492809
+s7888
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c00000000534C0C4900000000000004CB
+t1397492809
+s1227
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c00000000534C0C490000000000000EBF
+t1397492809
+s3775
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c00000000534C0C490000000000000401
+t1397492809
+s1025
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c00000000534C0C4900000000000007E6
+t1397492809
+s2022
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c00000000534C0C490000000000000DDE
+t1397492809
+s3550
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c00000000534C0C4900000000000003DA
+t1397492809
+s986
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c00000000534C0C4900000000000009A1
+t1397492809
+s2465
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c00000000534C0C4900000000000006CF
+t1397492809
+s1743
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c00000000534C0C490000000000004C7E
+t1397492809
+s19582
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c00000000534C0C490000000000000892
+t1397492809
+s2194
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c00000000534C0C4900000000000016AE
+t1397492809
+s5806
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c00000000534C0C490000000000000C13
+t1397492809
+s3091
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c00000000534C0C490000000000001B29
+t1397492809
+s6953
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c00000000534C0C490000000000000408
+t1397492809
+s1032
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.h
+c00000000534C0C4900000000000003E6
+t1397492809
+s998
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.m
+c00000000534C0C4900000000000006BD
+t1397492809
+s1725
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c00000000534C0C49000000000000038D
+t1397492809
+s909
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c00000000534C0C490000000000000AA2
+t1397492809
+s2722
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c00000000534C0C49000000000000041C
+t1397492809
+s1052
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c00000000534C0C49000000000000259E
+t1397492809
+s9630
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c00000000534C0C490000000000000421
+t1397492809
+s1057
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c00000000534C0C490000000000001361
+t1397492809
+s4961
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c00000000534C0C490000000000000ACC
+t1397492809
+s2764
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c00000000534C0C490000000000008FD2
+t1397492809
+s36818
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c00000000534C0C4900000000000005A2
+t1397492809
+s1442
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c00000000534C0C490000000000003795
+t1397492809
+s14229
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c00000000534C0C4900000000000004B4
+t1397492809
+s1204
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c00000000534C0C490000000000002814
+t1397492809
+s10260
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c00000000534C0C490000000000000392
+t1397492809
+s914
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c00000000534C0C4900000000000004D8
+t1397492809
+s1240
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c00000000534C0C49000000000000037D
+t1397492809
+s893
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c00000000534C0C4900000000000022CC
+t1397492809
+s8908
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c00000000534C0C4900000000000005DA
+t1397492809
+s1498
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c00000000534C0C490000000000001059
+t1397492809
+s4185
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c00000000534C0C4900000000000003A0
+t1397492809
+s928
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c00000000534C0C490000000000000584
+t1397492809
+s1412
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c00000000534C0C490000000000000476
+t1397492809
+s1142
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c00000000534C0C490000000000000620
+t1397492809
+s1568
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c00000000534C0C490000000000000346
+t1397492809
+s838
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1397492831
+s64888
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1397492830
+s61364
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1397492830
+s27424
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1397492830
+s18224
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1397492830
+s10552
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1397492830
+s106308
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1397492830
+s57096
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1397492830
+s36616
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1397492831
+s9024
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1397492831
+s22584
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1397492830
+s68864
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1397492831
+s50736
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1397492831
+s162920
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1397492831
+s67876
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1397492830
+s42380
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c00000000534C0C5D0000000000000C67
+t1397492829
+s3175
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1397492830
+s7196
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1397492830
+s10888
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1397492830
+s17308
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1397492830
+s6752
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1397492830
+s9172
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a
+t2
+s0
+
+N/var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch.pch
+t1397492830
+s3241684
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies162feadd43fcb841^b8c9fcdd43fcb841^---0#1#1#--18"Check dependencies36"5CB441B5-9891-45F5-82D7-2E4D1EFEAC32-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.761601
+e419185631.036922
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m232"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler431cc3de43fcb841^dfc309df43fcb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3731"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"F38FB222-C492-4D5D-A1A9-5506C39EE441-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.687938
+e419185630.976007
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf643b0de43fcb841^e8dcf9de43fcb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3689"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"AB24DED0-4E2D-4CD1-8D73-5C9FE50E4632-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.822716
+e419185630.874131
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbdc2d2de43fcb841^fcc6dfde43fcb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3689"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"0D55ED6F-4770-4DDC-B938-FC365D6F9FB1-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.308736
+e419185630.352236
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m228"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4e254fde43fcb841^923d5ade43fcb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3719"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"FB9CC81D-9BEC-4DA9-968E-AA8A396FAFE8-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.875435
+e419185630.911429
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.m202"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0341e0de43fcb841^5454e9de43fcb841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3641"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"B1D5401D-9352-4AE5-8F31-A3EF0ED4EFBD-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.439998
+e419185630.760160
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3fc670de43fcb841^4a9bc2de43fcb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3689"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"E86BEAB3-628E-40E5-A73D-2C1B603AEF88-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.353162
+e419185630.604234
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb1875ade43fcb841^25af9ade43fcb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3653"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"E4E6550C-8E09-4B03-B906-9B1231611019-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.310220
+e419185630.375832
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb9884fde43fcb841^c47960de43fcb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3689"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"03C99EEE-E526-41C8-99F1-D69879178260-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185631.088478
+e419185631.129396
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf7cc16df43fcb841^7d2021df43fcb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3653"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"5F855711-11FF-47A7-816B-4CDC85FF8A5A-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185631.037301
+e419185631.087086
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.m204"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc7b909df43fcb841^5cad17df43fcb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3647"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"52FA9AF2-CF76-40DF-9548-9269A2D5EE5B-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.376189
+e419185630.651040
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m216"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler657060de43fcb841^deaba6de43fcb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3683"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"FB75462A-B37F-454D-9D30-C5DFD89DECB4-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.911672
+e419185631.148151
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m220"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere484e9de43fcb841^9eed25df43fcb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3695"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"6FB6F23D-B7BB-4C0C-9729-1A4EDC5C9500-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.389364
+e419185631.084495
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.m222"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc4cf63de43fcb841^e8a215df43fcb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3701"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"DC4B9D1A-4489-4B17-913C-267981A72136-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.978331
+e419185631.206015
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m224"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7096fade43fcb841^e4bf34df43fcb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3707"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"F7B61FD4-F531-4A46-B663-D11A53DC9E70-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.355036
+e419185630.439617
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.m212"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler79045bde43fcb841^8b8a70de43fcb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3671"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"4F1F903A-7C9D-49AB-BBFF-36C51C307C7C-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.652451
+e419185630.687564
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9d2aa7de43fcb841^90bcafde43fcb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3713"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"375E23A6-D487-40B4-9491-E67005ECFC48-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.309151
+e419185630.352757
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.m214"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6854fde43fcb841^874f5ade43fcb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3677"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"50C3A8A5-2BA3-4E17-8048-F13FAFAB4447-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.308354
+e419185630.354791
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m234"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera5114fde43fcb841^b3255bde43fcb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3737"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"A493C07F-705A-4229-8845-CD36BE88A24A-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.356808
+e419185630.388961
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m246"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8b875bde43fcb841^429463de43fcb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3773"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"53FA1258-9C68-41FA-AD48-09C0FDDB588F-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.606009
+e419185630.821338
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4d489bde43fcb841^2443d2de43fcb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3713"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"0AC0186F-5F13-49F4-915D-1F16A09316EC-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDV.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDV.h
+s419185629.998274
+e419185630.000980
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDV.h122"[1mCpHeader[0m Classes/CDV.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDV.h[0m03d1ffdd43fcb841^34a200de43fcb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDV.h003450b9deffdf42^660"[1mCpHeader[0m Classes/CDV.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDV.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDV.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"35E0306D-94D2-4BD5-9613-FDAE94B3FB43-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVAvailability.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s419185629.999006
+e419185630.000632
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h146"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0mc8d2ffdd43fcb841^8b3500de43fcb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h003450b9deffdf42^696"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"A26A0349-9E90-4C39-961A-0CDDCA97008D-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s419185629.997153
+e419185629.999395
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h152"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0meb56ffdd43fcb841^57ecffdd43fcb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h003450b9deffdf42^705"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"FA3393F7-3FE5-40F9-9198-69561E687B1F-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s419185630.004876
+e419185630.006713
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h160"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0mb85801de43fcb841^8cbb01de43fcb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h003450b9deffdf42^717"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"BDB72DB0-AD8A-4103-9745-5B855AED7B09-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVCommandQueue.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s419185630.003236
+e419185630.004748
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h146"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m41f000de43fcb841^715501de43fcb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h003450b9deffdf42^696"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"5870118F-E3B5-4497-9C98-58F074325DE2-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVConfigParser.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s419185630.006363
+e419185630.008494
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h146"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m32c801de43fcb841^ed9c02de43fcb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h003450b9deffdf42^696"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"B9F93B6E-3307-44CF-9BBB-A04B64060EB7-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVDebug.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s419185629.994031
+e419185629.995763
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVDebug.h132"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0mab98fedd43fcb841^0e11ffdd43fcb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVDebug.h003450b9deffdf42^675"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"55027EA1-9A8E-4EDB-B8D2-69DEA001E5B5-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s419185629.990621
+e419185629.993472
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h156"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m40bdfddd43fcb841^fe43fedd43fcb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h003450b9deffdf42^711"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"F7FE52EA-9A9F-4583-9AC7-957BD42C3142-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVJSON.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s419185630.007314
+e419185630.010340
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVJSON.h130"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m38f901de43fcb841^e2cd02de43fcb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVJSON.h003450b9deffdf42^672"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"457B7B62-DF7F-46F1-A419-A73F288CCE65-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVLocalStorage.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s419185629.999566
+e419185630.001958
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h146"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m423e00de43fcb841^bfb800de43fcb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h003450b9deffdf42^696"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"AC1B5833-26CA-4142-930E-BBB776B28708-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVPlugin.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s419185629.993197
+e419185629.995385
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h134"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0mfe7dfedd43fcb841^08e4fedd43fcb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h003450b9deffdf42^678"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"9BDFAAFF-574C-4C27-ACA6-C846FD32BAD7-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVPluginResult.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s419185629.991593
+e419185629.993439
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h146"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m12fafddd43fcb841^0761fedd43fcb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h003450b9deffdf42^696"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"76ED43F1-A540-4C00-9402-CFD23CDDAC28-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s419185630.006167
+e419185630.007752
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h172"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m26a801de43fcb841^71ff01de43fcb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h003450b9deffdf42^735"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"3E7A523D-591C-485A-81DA-B40154A3B4A3-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVShared.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s419185630.005462
+e419185630.008118
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVShared.h134"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m797601de43fcb841^2e0302de43fcb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVShared.h003450b9deffdf42^678"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"CBC5D56F-1D76-4056-AF2A-70C58FBF3DDB-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVTimer.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s419185630.009323
+e419185630.011343
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVTimer.h132"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m988502de43fcb841^82e702de43fcb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVTimer.h003450b9deffdf42^675"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"884D2623-C457-40B7-BDCB-4030B8B537A4-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVURLProtocol.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s419185629.995536
+e419185629.997904
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h144"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m6ef7fedd43fcb841^3883ffdd43fcb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h003450b9deffdf42^693"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"9C9D30E5-AFF6-454D-8AEB-3934F2952384-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s419185630.009042
+e419185630.010708
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h148"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m346602de43fcb841^01da02de43fcb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h003450b9deffdf42^699"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"916C90A1-A35F-4C6F-AEBA-6F957227E39A-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVViewController.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s419185629.997060
+e419185629.999741
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h150"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m1992ffdd43fcb841^310c00de43fcb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h003450b9deffdf42^702"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"3B62344F-6466-4127-A9D5-FBB0C51B76C4-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s419185630.008049
+e419185630.010494
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h152"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0mef3b02de43fcb841^1fd702de43fcb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h003450b9deffdf42^705"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"546096AA-0257-478F-9392-168A691CDAE0-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/CDVWhitelist.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s419185629.995375
+e419185629.996926
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h140"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m6cecfedd43fcb841^4e5fffdd43fcb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h003450b9deffdf42^687"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"BD55F967-A441-4556-A9AF-2426B09455F7-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s419185630.003180
+e419185630.004500
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h154"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m14eb00de43fcb841^282801de43fcb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h003450b9deffdf42^708"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"F87FBC48-FDA5-437B-869D-D710348A6A47-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/NSData+Base64.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s419185629.990803
+e419185629.993443
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h142"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0mdcbcfddd43fcb841^6d70fedd43fcb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h003450b9deffdf42^690"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"2C07698F-DAC8-4502-BD41-3FFA794DFF4E-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s419185629.990441
+e419185629.992839
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h162"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0mb8adfddd43fcb841^f12bfedd43fcb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h003450b9deffdf42^720"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"45A2294A-0DCE-46B2-9621-4E5BE27F269F-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s419185629.995140
+e419185629.996937
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h174"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m74d3fedd43fcb841^7f31ffdd43fcb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h003450b9deffdf42^738"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"35EA88A5-863B-459E-B28E-9FC76B8EC0CF-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s419185630.001133
+e419185630.003139
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h154"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0md57900de43fcb841^7dcb00de43fcb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h003450b9deffdf42^708"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova36"B13860C8-CDDD-455B-9195-8C3A33888610-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CLibtool /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a normal i386
+s419185631.207707
+e419185631.218638
+r1
+xLibtool
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"[1mLibtool[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a normal i386102"[1mLibtool[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a normal i386643d35df43fcb841^0ef937df43fcb841^---0#0#1#--984"[1mLibtool[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -filelist /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a36"BA6F275E-6224-4B4F-B206-F76D34C408FE-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+
+CProcessPCH /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185630.012568
+e419185630.307593
+r1
+xProcessPCH
+x/var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch297"[1mProcessPCH[0m /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler026103de43fcb841^06be4ede43fcb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3666"[1mProcessPCH[0m /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch.d -c /Users/Derek/BookSmart/booksmart/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cpxoihldxzvuzggugwcpggzcudba/CordovaLib_Prefix.pch.pch36"9B179142-36C6-494A-A836-3393E5F30A8E-
+bE6DA4C91-83DE-4F46-8BDB-072E1220F560
+

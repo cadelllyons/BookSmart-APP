@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.m \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVJSON.h \
+  /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.h

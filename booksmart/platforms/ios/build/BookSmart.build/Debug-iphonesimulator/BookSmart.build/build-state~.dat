@@ -1,0 +1,863 @@
+TBookSmart
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Info.plist /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Script-304B58A110DAC018002A0835.sh
+cCpResource BookSmart/Resources/icons/icon-76.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76.png
+cCpResource BookSmart/Resources/icons/icon-40@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40@2x.png
+cCpResource BookSmart/Resources/icons/icon-72.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72.png
+cCpResource BookSmart/Resources/icons/icon.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon.png
+cCpResource BookSmart/Resources/icons/icon@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon@2x.png
+cCopyStringsFile /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/en.lproj/Localizable.strings BookSmart/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.xib
+cCpResource BookSmart/Resources/icons/icon-50.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50.png
+cCpResource BookSmart/Resources/icons/icon-60@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60@2x.png
+cCopyStringsFile /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/de.lproj/Localizable.strings BookSmart/Resources/de.lproj/Localizable.strings
+cCpResource BookSmart/Resources/icons/icon-small.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small.png
+cCpResource BookSmart/Resources/splash/Default-Landscape@2x~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape@2x~ipad.png
+cCpResource BookSmart/Resources/splash/Default-Landscape~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape~ipad.png
+cCpResource BookSmart/Resources/splash/Default-Portrait@2x~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait@2x~ipad.png
+cCpResource BookSmart/Resources/icons/icon-small@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small@2x.png
+cCpResource BookSmart/Resources/splash/Default-Portrait~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait~ipad.png
+cCpResource BookSmart/Resources/icons/icon-40.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40.png
+cCpResource BookSmart/Resources/splash/Default@2x~iphone.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default@2x~iphone.png
+cCpResource BookSmart/Resources/icons/icon-60.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60.png
+cCpResource BookSmart/Resources/splash/Default~iphone.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default~iphone.png
+cCpResource BookSmart/Resources/splash/Default-568h@2x~iphone.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-568h@2x~iphone.png
+cCpResource BookSmart/Resources/icons/icon-50@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50@2x.png
+cCpResource BookSmart/Resources/icons/icon-76@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76@2x.png
+cCpResource BookSmart/Resources/icons/icon-72@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72@2x.png
+cProcessPCH /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch.pch BookSmart/BookSmart-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/main.o /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/AppDelegate.o /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/MainViewController.o /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/CDVDevice.o /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart normal i386
+cGenerateDSYMFile /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app.dSYM /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart
+cTouch /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533CE81D00000000000003B4
+t1396500509
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533CE824000000000000019E
+t1396500516
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000533CE8250000000000059340
+t1396500517
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533CE8260000000000446820
+t1396500518
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000533CE82600000000000F1A80
+t1396500518
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000533CE82800000000001BE790
+t1396500520
+s1828752
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Info.plist
+c00000000534C0C5D0000000000000A0D
+t1397492829
+s2573
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Prefix.pch
+c00000000534C0C4900000000000003C3
+t1397492809
+s963
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/AppDelegate.m
+c00000000534C0C4800000000000013A9
+t1397492808
+s5033
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.m
+c00000000534C0C48000000000000126A
+t1397492808
+s4714
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.xib
+c00000000534C0C480000000000001759
+t1397492808
+s5977
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.m
+c00000000534C0C5A0000000000000C22
+t1397492826
+s3106
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/de.lproj/Localizable.strings
+c00000000534C0C4800000000000004C0
+t1397492808
+s1216
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/en.lproj/Localizable.strings
+c00000000534C0C4800000000000004AB
+t1397492808
+s1195
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-40.png
+c00000000534C0C480000000000000FF2
+t1397492808
+s4082
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-40@2x.png
+c00000000534C0C480000000000001CF3
+t1397492808
+s7411
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-50.png
+c00000000534C0C48000000000000130A
+t1397492808
+s4874
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-50@2x.png
+c00000000534C0C48000000000000258B
+t1397492808
+s9611
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-60.png
+c00000000534C0C4800000000000016B3
+t1397492808
+s5811
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-60@2x.png
+c00000000534C0C480000000000002E94
+t1397492808
+s11924
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-72.png
+c00000000534C0C480000000000001350
+t1397492808
+s4944
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-72@2x.png
+c00000000534C0C480000000000002DBA
+t1397492808
+s11706
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-76.png
+c00000000534C0C480000000000001B71
+t1397492808
+s7025
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-76@2x.png
+c00000000534C0C480000000000003B9E
+t1397492808
+s15262
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-small.png
+c00000000534C0C480000000000000CDE
+t1397492808
+s3294
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-small@2x.png
+c00000000534C0C4800000000000015E8
+t1397492808
+s5608
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon.png
+c00000000534C0C480000000000000F3E
+t1397492808
+s3902
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon@2x.png
+c00000000534C0C480000000000001EBD
+t1397492808
+s7869
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default-568h@2x~iphone.png
+c00000000534C0C4800000000000085B1
+t1397492808
+s34225
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000534C0C480000000000033D0A
+t1397492808
+s212234
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default-Landscape~ipad.png
+c00000000534C0C4800000000000166A2
+t1397492808
+s91810
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000534C0C480000000000033F7C
+t1397492808
+s212860
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default-Portrait~ipad.png
+c00000000534C0C480000000000016641
+t1397492808
+s91713
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default@2x~iphone.png
+c00000000534C0C480000000000007323
+t1397492808
+s29475
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default~iphone.png
+c00000000534C0C48000000000000289A
+t1397492808
+s10394
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/main.m
+c00000000534C0C48000000000000045B
+t1397492808
+s1115
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/AppDelegate.o
+t1397492833
+s73948
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/BookSmart.LinkFileList
+c00000000534C0C5F0000000000000232
+t1397492831
+s562
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/CDVDevice.o
+t1397492833
+s50296
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/MainViewController.o
+t1397492833
+s51528
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/main.o
+t1397492833
+s2956
+
+N/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Script-304B58A110DAC018002A0835.sh
+c00000000534C0C5F000000000000002D
+t1397492831
+s45
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app
+t1397492833
+s1020
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app.dSYM
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart
+t1397492833
+s277008
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-568h@2x~iphone.png
+t1397492831
+s34225
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape@2x~ipad.png
+t1397492831
+s212234
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape~ipad.png
+t1397492831
+s91810
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait@2x~ipad.png
+t1397492831
+s212860
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait~ipad.png
+t1397492831
+s91713
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default@2x~iphone.png
+t1397492831
+s29475
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default~iphone.png
+t1397492831
+s10394
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Info.plist
+t1397492831
+s1279
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/MainViewController.nib
+t1397492832
+s836
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/PkgInfo
+t2
+s0
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/de.lproj/Localizable.strings
+t1397492831
+s280
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/en.lproj/Localizable.strings
+t1397492831
+s166
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40.png
+t1397492831
+s4082
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40@2x.png
+t1397492831
+s7411
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50.png
+t1397492831
+s4874
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50@2x.png
+t1397492831
+s9611
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60.png
+t1397492831
+s5811
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60@2x.png
+t1397492831
+s11924
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72.png
+t1397492831
+s4944
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72@2x.png
+t1397492831
+s11706
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76.png
+t1397492831
+s7025
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76@2x.png
+t1397492831
+s15262
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small.png
+t1397492831
+s3294
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small@2x.png
+t1397492831
+s5608
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon.png
+t1397492831
+s3902
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon@2x.png
+t1397492831
+s7869
+
+N/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a
+c00000000534C0C5F00000000000D3690
+t1397492831
+s865936
+
+N/var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch.pch
+t1397492833
+s5376424
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencieseaeb39df43fcb841^2ee73adf43fcb841^---0#1#1#--18"Check dependencies36"216C160F-2EDC-4606-BC07-021A7F2F7E91-
+
+CCompileC build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/AppDelegate.o /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185633.094461
+e419185633.194005
+r1
+xCompileC
+xbuild/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/AppDelegate.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/AppDelegate.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/AppDelegate.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/AppDelegate.m218"[1mCompileC[0m build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/AppDelegate.o [1mBookSmart/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilereb5518e143fcb841^5cab31e143fcb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/AppDelegate.m0000000000000000^3702"[1mCompileC[0m build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/AppDelegate.o [1mBookSmart/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/UninstalledProducts/include -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/AppDelegate.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/AppDelegate.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/AppDelegate.o36"38312EA9-4F98-40F3-A243-891704254E06-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCompileC build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/CDVDevice.o /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185633.095837
+e419185633.194019
+r1
+xCompileC
+xbuild/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/CDVDevice.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.m
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+d/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.m240"[1mCompileC[0m build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/CDVDevice.o [1mBookSmart/Plugins/org.apache.cordova.device/CDVDevice.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler30f418e143fcb841^a9db31e143fcb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.m0000000000000000^3742"[1mCompileC[0m build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/CDVDevice.o [1mBookSmart/Plugins/org.apache.cordova.device/CDVDevice.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/UninstalledProducts/include -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/CDVDevice.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/CDVDevice.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Plugins/org.apache.cordova.device/CDVDevice.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/CDVDevice.o36"1BC34F50-050F-453F-B0C2-4A376328298B-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCompileC build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/MainViewController.o /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185633.094886
+e419185633.179793
+r1
+xCompileC
+xbuild/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/MainViewController.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.m
+d/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.m232"[1mCompileC[0m build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/MainViewController.o [1mBookSmart/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler887f18e143fcb841^56f22de143fcb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.m0000000000000000^3744"[1mCompileC[0m build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/MainViewController.o [1mBookSmart/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/UninstalledProducts/include -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/MainViewController.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/MainViewController.o36"32C0EBC3-6EDA-4AA8-946E-257C2A7D24F8-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCompileC build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/main.o /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185633.094177
+e419185633.121112
+r1
+xCompileC
+xbuild/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/main.o
+x/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/main.m196"[1mCompileC[0m build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/main.o [1mBookSmart/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8e3c18e143fcb841^d7151fe143fcb841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/main.m0000000000000000^3644"[1mCompileC[0m build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/main.o [1mBookSmart/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/UninstalledProducts/include -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -include /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch -MMD -MT dependencies -MF /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/main.dia -c /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/main.m -o /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/main.o36"11CE36AF-7123-4810-A4B7-2A192D33A05C-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCompileXIB /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.xib
+s419185631.314140
+e419185632.793420
+r1
+xCompileXIB
+x/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.xib
+o2014-04-14 12:27:12.153 Interface Builder Cocoa Touch Tool[20847:303] CFPreferences: user home directory at file:///Users/Derek/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compiling /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.xib67"[1mCompileXIB[0m [1mBookSmart/Classes/MainViewController.xib[0m498650df43fcb841^f31ecbe043fcb841^-230"2014-04-14 12:27:12.153 Interface Builder Cocoa Touch Tool[20847:303] CFPreferences: user home directory at file:///Users/Derek/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.xib0000000000000000^824"[1mCompileXIB[0m [1mBookSmart/Classes/MainViewController.xib[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/MainViewController.nib /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Classes/MainViewController.xib36"77A108C9-F67E-4267-B6E8-BEA2F587B8A3-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCopyStringsFile /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/de.lproj/Localizable.strings BookSmart/Resources/de.lproj/Localizable.strings
+s419185631.316567
+e419185631.318006
+r1
+xCopyStringsFile
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/de.lproj/Localizable.strings
+xBookSmart/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy BookSmart/Resources/de.lproj/Localizable.strings177"[1mCopyStringsFile[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/de.lproj/Localizable.strings BookSmart/Resources/de.lproj/Localizable.stringsc91e51df43fcb841^616c51df43fcb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/de.lproj/Localizable.strings0000000000000000^669"[1mCopyStringsFile[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/de.lproj/Localizable.strings BookSmart/Resources/de.lproj/Localizable.strings    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/de.lproj -- BookSmart/Resources/de.lproj/Localizable.strings36"7FD72B98-B234-4855-870F-7855A844903A-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCopyStringsFile /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/en.lproj/Localizable.strings BookSmart/Resources/en.lproj/Localizable.strings
+s419185631.313453
+e419185631.316397
+r1
+xCopyStringsFile
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/en.lproj/Localizable.strings
+xBookSmart/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy BookSmart/Resources/en.lproj/Localizable.strings177"[1mCopyStringsFile[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/en.lproj/Localizable.strings BookSmart/Resources/en.lproj/Localizable.strings136050df43fcb841^8a0251df43fcb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/en.lproj/Localizable.strings0000000000000000^669"[1mCopyStringsFile[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/en.lproj/Localizable.strings BookSmart/Resources/en.lproj/Localizable.strings    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/en.lproj -- BookSmart/Resources/en.lproj/Localizable.strings36"4ECF5F0F-7BBF-46EE-9240-7F7B10ECAB09-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-40.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40.png
+s419185631.321256
+e419185631.322596
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-40.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40.png152"[1mCpResource[0m BookSmart/Resources/icons/icon-40.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40.png[0mb55052df43fcb841^629d52df43fcb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40.png003450b9deffdf42^690"[1mCpResource[0m BookSmart/Resources/icons/icon-40.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-40.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"F01AA72E-A40C-4943-91C9-A35DB2C73E47-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-40@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40@2x.png
+s419185631.311089
+e419185631.312500
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-40@2x.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40@2x.png158"[1mCpResource[0m BookSmart/Resources/icons/icon-40@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40@2x.png[0medb64fdf43fcb841^a11150df43fcb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40@2x.png003450b9deffdf42^699"[1mCpResource[0m BookSmart/Resources/icons/icon-40@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-40@2x.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-40@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"67869C52-44A8-4CE4-8030-6207353DA6D3-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-50.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50.png
+s419185631.314652
+e419185631.316129
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-50.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50.png152"[1mCpResource[0m BookSmart/Resources/icons/icon-50.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50.png[0m309f50df43fcb841^f1f250df43fcb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50.png003450b9deffdf42^690"[1mCpResource[0m BookSmart/Resources/icons/icon-50.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-50.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"C502D2C1-6122-4F3D-957C-C492B6EE81F5-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-50@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50@2x.png
+s419185631.324362
+e419185631.326474
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-50@2x.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50@2x.png158"[1mCpResource[0m BookSmart/Resources/icons/icon-50@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50@2x.png[0mb11a53df43fcb841^16a653df43fcb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50@2x.png003450b9deffdf42^699"[1mCpResource[0m BookSmart/Resources/icons/icon-50@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-50@2x.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-50@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"BDC4A060-0068-41F0-B687-7386D5962683-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-60.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60.png
+s419185631.322619
+e419185631.323727
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-60.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60.png152"[1mCpResource[0m BookSmart/Resources/icons/icon-60.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60.png[0m3baa52df43fcb841^e6e752df43fcb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60.png003450b9deffdf42^690"[1mCpResource[0m BookSmart/Resources/icons/icon-60.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-60.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"33106081-EEF0-4315-BEB7-07DDA0135D3B-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-60@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60@2x.png
+s419185631.315086
+e419185631.317118
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-60@2x.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60@2x.png158"[1mCpResource[0m BookSmart/Resources/icons/icon-60@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60@2x.png[0m7dcf50df43fcb841^a12f51df43fcb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60@2x.png003450b9deffdf42^699"[1mCpResource[0m BookSmart/Resources/icons/icon-60@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-60@2x.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-60@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"AC7CDF6E-DFE9-40F5-B296-C6EAAA534645-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-72.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72.png
+s419185631.311303
+e419185631.313002
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-72.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72.png152"[1mCpResource[0m BookSmart/Resources/icons/icon-72.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72.png[0m46cd4fdf43fcb841^802c50df43fcb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72.png003450b9deffdf42^690"[1mCpResource[0m BookSmart/Resources/icons/icon-72.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-72.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"C3D80757-B11A-45FB-9F5A-157E03C7F7C0-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-72@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72@2x.png
+s419185631.325995
+e419185631.327506
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-72@2x.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72@2x.png158"[1mCpResource[0m BookSmart/Resources/icons/icon-72@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72@2x.png[0m1a8a53df43fcb841^51de53df43fcb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72@2x.png003450b9deffdf42^699"[1mCpResource[0m BookSmart/Resources/icons/icon-72@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-72@2x.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-72@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"56292D1D-4400-4940-A280-C936F2614D04-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-76.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76.png
+s419185631.310942
+e419185631.312525
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-76.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76.png152"[1mCpResource[0m BookSmart/Resources/icons/icon-76.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76.png[0m72a84fdf43fcb841^1d0150df43fcb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76.png003450b9deffdf42^690"[1mCpResource[0m BookSmart/Resources/icons/icon-76.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-76.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"03FC4A42-FE4A-4127-B213-EA8FB5681EC2-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-76@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76@2x.png
+s419185631.325311
+e419185631.327271
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-76@2x.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76@2x.png158"[1mCpResource[0m BookSmart/Resources/icons/icon-76@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76@2x.png[0m465d53df43fcb841^17d453df43fcb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76@2x.png003450b9deffdf42^699"[1mCpResource[0m BookSmart/Resources/icons/icon-76@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-76@2x.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-76@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"6B254D2D-F34E-4005-9CEB-AF78440DB124-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-small.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small.png
+s419185631.317288
+e419185631.318586
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-small.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small.png158"[1mCpResource[0m BookSmart/Resources/icons/icon-small.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small.png[0m765051df43fcb841^07b751df43fcb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small.png003450b9deffdf42^699"[1mCpResource[0m BookSmart/Resources/icons/icon-small.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-small.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"95393E6F-7996-43B9-9308-6CA1A7A3BD6A-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon-small@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small@2x.png
+s419185631.319673
+e419185631.321359
+r1
+xCpResource
+xBookSmart/Resources/icons/icon-small@2x.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small@2x.png164"[1mCpResource[0m BookSmart/Resources/icons/icon-small@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small@2x.png[0mb7eb51df43fcb841^435752df43fcb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small@2x.png003450b9deffdf42^708"[1mCpResource[0m BookSmart/Resources/icons/icon-small@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon-small@2x.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon-small@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"FB8366B8-E3DE-42A1-B668-50347E1A5FE4-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon.png
+s419185631.312121
+e419185631.313188
+r1
+xCpResource
+xBookSmart/Resources/icons/icon.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon.png146"[1mCpResource[0m BookSmart/Resources/icons/icon.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon.png[0mc7f54fdf43fcb841^c53b50df43fcb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon.png003450b9deffdf42^681"[1mCpResource[0m BookSmart/Resources/icons/icon.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"8E3EF898-7718-49A1-A0F0-197BD6231B01-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/icons/icon@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon@2x.png
+s419185631.312709
+e419185631.314480
+r1
+xCpResource
+xBookSmart/Resources/icons/icon@2x.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon@2x.png152"[1mCpResource[0m BookSmart/Resources/icons/icon@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon@2x.png[0m553250df43fcb841^b68050df43fcb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon@2x.png003450b9deffdf42^690"[1mCpResource[0m BookSmart/Resources/icons/icon@2x.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/icon@2x.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/icons/icon@2x.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"14E6EC79-AE63-425A-807D-B22D4C96D9D5-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/splash/Default-568h@2x~iphone.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-568h@2x~iphone.png
+s419185631.324138
+e419185631.325473
+r1
+xCpResource
+xBookSmart/Resources/splash/Default-568h@2x~iphone.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-568h@2x~iphone.png183"[1mCpResource[0m BookSmart/Resources/splash/Default-568h@2x~iphone.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-568h@2x~iphone.png[0m881053df43fcb841^8c4d53df43fcb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-568h@2x~iphone.png003450b9deffdf42^737"[1mCpResource[0m BookSmart/Resources/splash/Default-568h@2x~iphone.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-568h@2x~iphone.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default-568h@2x~iphone.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"6D04333E-8935-4255-8CD8-6C2912CDF913-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/splash/Default-Landscape@2x~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape@2x~ipad.png
+s419185631.317904
+e419185631.319546
+r1
+xCpResource
+xBookSmart/Resources/splash/Default-Landscape@2x~ipad.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape@2x~ipad.png189"[1mCpResource[0m BookSmart/Resources/splash/Default-Landscape@2x~ipad.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape@2x~ipad.png[0mb77f51df43fcb841^c5c951df43fcb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape@2x~ipad.png003450b9deffdf42^746"[1mCpResource[0m BookSmart/Resources/splash/Default-Landscape@2x~ipad.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape@2x~ipad.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default-Landscape@2x~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"494EB7A7-8339-4278-A90C-B45EE3F76E82-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/splash/Default-Landscape~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape~ipad.png
+s419185631.318287
+e419185631.319577
+r1
+xCpResource
+xBookSmart/Resources/splash/Default-Landscape~ipad.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape~ipad.png183"[1mCpResource[0m BookSmart/Resources/splash/Default-Landscape~ipad.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape~ipad.png[0m9f9051df43fcb841^13d351df43fcb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape~ipad.png003450b9deffdf42^737"[1mCpResource[0m BookSmart/Resources/splash/Default-Landscape~ipad.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Landscape~ipad.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default-Landscape~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"7AE52C58-8589-40CA-81F3-3F1CE6CF6F22-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/splash/Default-Portrait@2x~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait@2x~ipad.png
+s419185631.319341
+e419185631.321079
+r1
+xCpResource
+xBookSmart/Resources/splash/Default-Portrait@2x~ipad.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait@2x~ipad.png187"[1mCpResource[0m BookSmart/Resources/splash/Default-Portrait@2x~ipad.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait@2x~ipad.png[0m0de051df43fcb841^a03252df43fcb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait@2x~ipad.png003450b9deffdf42^743"[1mCpResource[0m BookSmart/Resources/splash/Default-Portrait@2x~ipad.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait@2x~ipad.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default-Portrait@2x~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"A4F366F1-33B8-4166-BEF0-894C2C811918-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/splash/Default-Portrait~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait~ipad.png
+s419185631.320074
+e419185631.321596
+r1
+xCpResource
+xBookSmart/Resources/splash/Default-Portrait~ipad.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait~ipad.png181"[1mCpResource[0m BookSmart/Resources/splash/Default-Portrait~ipad.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait~ipad.png[0mee0952df43fcb841^498052df43fcb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait~ipad.png003450b9deffdf42^734"[1mCpResource[0m BookSmart/Resources/splash/Default-Portrait~ipad.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default-Portrait~ipad.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default-Portrait~ipad.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"D5512DEC-35DD-4BB4-B311-8FA64258F77D-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/splash/Default@2x~iphone.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default@2x~iphone.png
+s419185631.322087
+e419185631.323605
+r1
+xCpResource
+xBookSmart/Resources/splash/Default@2x~iphone.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default@2x~iphone.png173"[1mCpResource[0m BookSmart/Resources/splash/Default@2x~iphone.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default@2x~iphone.png[0me28f52df43fcb841^6ee052df43fcb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default@2x~iphone.png003450b9deffdf42^722"[1mCpResource[0m BookSmart/Resources/splash/Default@2x~iphone.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default@2x~iphone.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default@2x~iphone.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"A52F4BD8-0AE3-468C-AC3B-3E28B1A120CE-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CCpResource BookSmart/Resources/splash/Default~iphone.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default~iphone.png
+s419185631.323276
+e419185631.324769
+r1
+xCpResource
+xBookSmart/Resources/splash/Default~iphone.png
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default~iphone.png167"[1mCpResource[0m BookSmart/Resources/splash/Default~iphone.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default~iphone.png[0m02d652df43fcb841^d92453df43fcb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default~iphone.png003450b9deffdf42^713"[1mCpResource[0m BookSmart/Resources/splash/Default~iphone.png [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Default~iphone.png[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/Resources/splash/Default~iphone.png /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"88BA3C44-388B-49CF-B82A-DCE15C3B8770-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CGenerateDSYMFile /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app.dSYM /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart
+s419185633.274369
+e419185633.317505
+r1
+xGenerateDSYMFile
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app.dSYM
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Generate /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app.dSYM199"[1mGenerateDSYMFile[0m [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app.dSYM[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart485246e143fcb841^5e4a51e143fcb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app.dSYM003450b9deffdf42^734"[1mGenerateDSYMFile[0m [1m/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app.dSYM[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart -o /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app.dSYM36"ECC7313F-1BFC-49BA-9D9D-2D9F9BCFFDE8-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CLd /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart normal i386
+s419185633.195322
+e419185633.272960
+r1
+xLd
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart
+xnormal
+xi386
+d/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/BookSmart.LinkFileList
+d/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/main.o
+d/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/AppDelegate.o
+d/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/MainViewController.o
+d/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/CDVDevice.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart108"[1mLd[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart normal i3865c1b32e143fcb841^cee245e143fcb841^---0#0#1#--1741"[1mLd[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart normal i386    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -filelist /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/BookSmart.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Objects-normal/i386/BookSmart_dependency_info.dat -o /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/BookSmart36"76457F2F-59F1-4F3C-91DD-D27AB598490D-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CPhaseScriptExecution Copy\ www\ directory /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Script-304B58A110DAC018002A0835.sh
+s419185631.235648
+e419185631.310364
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.043s
+ouser	0m0.017s
+osys	0m0.026s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'144"[1mPhaseScriptExecution[0m Copy\ www\ directory build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Script-304B58A110DAC018002A0835.sh3df13cdf43fcb841^12844fdf43fcb841^-42"real	0m0.043suser	0m0.017ssys	0m0.026s3(21%IDEActivityLogMessage2@14"real	0m0.043s-419185631#1#14#-0#-----2@14"user	0m0.017s-419185631#15#14#-0#-----2@13"sys	0m0.026s-419185631#29#13#-0#-----0#0#1#--356"[1mPhaseScriptExecution[0m Copy\ www\ directory build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Derek/BookSmart/booksmart/platforms/ios    /bin/sh -c /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/Script-304B58A110DAC018002A0835.sh36"85305D7B-E3C9-4DC3-9107-8DA1014CB1F3-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CProcessInfoPlistFile /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Info.plist /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Info.plist
+s419185631.231195
+e419185631.234070
+r1
+xProcessInfoPlistFile
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Info.plist
+x/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Info.plist154"[1mProcessInfoPlistFile[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Info.plist [1mBookSmart/BookSmart-Info.plist[0m0a483bdf43fcb841^abec3bdf43fcb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Info.plist0000000000000000^774"[1mProcessInfoPlistFile[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Info.plist [1mBookSmart/BookSmart-Info.plist[0m    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Info.plist -genpkginfo /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app/Info.plist36"E959D5CC-9A0B-41E2-B0F0-97A22E2F6BFF-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CProcessPCH /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch.pch BookSmart/BookSmart-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419185632.794462
+e419185633.093474
+r1
+xProcessPCH
+x/var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch.pch
+xBookSmart/BookSmart-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile BookSmart/BookSmart-Prefix.pch304"[1mProcessPCH[0m /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch.pch BookSmart/BookSmart-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerba84cbe043fcb841^17ef17e143fcb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Prefix.pch0000000000000000^3736"[1mProcessPCH[0m /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch.pch BookSmart/BookSmart-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-generated-files.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-own-target-headers.hmap -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-all-target-headers.hmap -iquote /Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/BookSmart-project-headers.hmap -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/include -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/UninstalledProducts/include -I/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/DerivedSources/i386 -I/Users/Derek/BookSmart/booksmart/platforms/ios/build/BookSmart.build/Debug-iphonesimulator/BookSmart.build/DerivedSources -F/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator --serialize-diagnostics /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch.d -c /Users/Derek/BookSmart/booksmart/platforms/ios/BookSmart/BookSmart-Prefix.pch -o /var/folders/jt/0t12z3td5j13pn2p547vmmmr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/BookSmart-Prefix-cqbrijdvbcffywbwpvrxaydmtemy/BookSmart-Prefix.pch.pch36"54A5CD5C-B498-46F0-80A3-EFD4864887BF-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
+CTouch /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app
+s419185633.319626
+e419185633.323382
+r1
+xTouch
+x/Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Touch /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app89"[1mTouch[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app14ea51e143fcb841^47ca52e143fcb841^---0#0#1#--452"[1mTouch[0m /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app    cd /Users/Derek/BookSmart/booksmart/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/Derek/booksmart/booksmart/platforms/ios/build/emulator/BookSmart.app36"049C6EB7-8885-4DA1-B17D-988768E5DC5A-
+bFF93BE42-5859-4FF6-9A2D-5AFA9DCA285B
+
