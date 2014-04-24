@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <script id="main_page" type="text/html">
+            <div id="loading-container"><div id="loading-icon"></div></div>
+            <div id="header">
+                <div id="title">BookSmart</div>
+                <div id="options">
+                    <img id="my-posts" src="img/menu-icon.png" />
+                    <img id="add" src="img/plus-icon.png" />
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+            <form id="search-form" action="javascript:core.search();">
+                <input id="search" type="search" placeholder="Enter Course, Professor, Title, Etc... Here" />
+            </form>
+            <div id="results"></div>
+            <div id="right-side-page">yay</div>
+        </script>
+
+        <script id="book_item" type="text/html">
+            <div class="book-item">
+                <div class="book-title" data-bind="title"></div>
+                <div class="book-condition" data-bind="condition"></div>
+                <div class="book-price" data-bind="price"></div>
+                <div style="clear:both;"></div>
+            </div>
+        </script>
+        
+        <script id="options_page" type="text/html">
+            <form id="isbn-lookup-form"action="javascript:core.lookup_isbn();">
+                <input id="isbn-lookup" type="text" placeholder="Enter ISBN Number Here" />
+            </form>
+            <div id="scan" onclick="javascript:core.scan_isbn();">Scan Book BarCode</div>
+        </script>
+        
+        <script id="manual_page" type="text/html">
+            <table id="manual-page">
+                <tr><td id="manual-title">Enter Book Information</td></tr>
+                <tr><td><input class="manual-input" id="book-title" type="text" placeholder="Enter Book Title" /></td></tr>
+                <tr><td><input class="manual-input" id="book-description" type="text" placeholder="Enter Book Summary" /></td></tr>
+                <tr><td><input class="manual-input" id="book-publisher" type="text" placeholder="Entry Book Publisher" /></td></tr>
+                <tr><td><input class="manual-input" id="book-edition" type="text" placeholder="Enter Book Edition (Optional)" /></td></tr>
+                <tr><td><input class="manual-input" id="book-isbn" type="text" placeholder="Enter Book ISBN Number" /></td></tr>
+                <tr><td><input class="manual-input" id="book-author" type="text" placeholder="Enter Book Author" /></td></tr>
+                <tr><td><div id="manual-next">Next</div></td></tr>
+            </table>
+        </script>
+        
+        <script id="user_post_page" type="text/html">
+            <table id="user-post-page">
+                <tr><td id="user-post-title"><div style="height: 15px"></div>Enter Post Information<div style="height: 15px"></div></td></tr>
+                <tr><td><input class="userpost-input" type="text" id="userpost-price" placeholder="Enter Price" </td></tr>
+                <tr><td><input class="userpost-input" type="text" id="userpost-condition" placeholder="Enter Condition (e.g Like New)" </td></tr>
+                <tr><td><input class="userpost-input" type="text" id="userpost-type" placeholder="Enter Type (e.g Hardcover)" </td></tr>
+                <tr><td><input class="userpost-input" type="text" id="userpost-semester" placeholder="Enter Semester" </td></tr>
+                <tr><td><input class="userpost-input" type="text" id="userpost-classnumber" placeholder="Enter Course Number" </td></tr>
+                <tr><td><input class="userpost-input" type="text" id="userpost-professor" placeholder="Enter Professor" </td></tr>
+                <tr><td><input class="userpost-input" type="text" id="userpost-school" placeholder="Enter School" </td></tr>
+                <tr><td><input class="userpost-input" type="text" id="userpost-contact" placeholder="Enter Email or Phone Number"</td></tr>
+                <tr><td><div id="submit-post">Submit Post</div></td></tr>
+            </table>
+            <input type="hidden" data-bind="value=isbn" id="userpost-isbn" />
+        </script>
+
+        <script id="book_page" type="text/html">
+            <div id="book-page">
+                <div id="back-button">Back</div>
+                <div id="book-info-title" data-bind="title"></div>
+                <table id="book-info-table">
+                    <tr><td class="book-info">Summary:</td><td><div class="book-div" data-bind="description"></div></td></tr>
+                    <tr><td class="book-info">Publisher:</td><td><div class="book-div" data-bind="publisher"></div></td></tr>
+                    <tr><td class="book-info">Edition:</td><td><div class="book-div" data-bind="edition"></div></td></tr>
+                    <tr><td class="book-info">Condition:</td><td><div class="book-div" data-bind="condition"></div></td></tr>
+                    <tr><td class="book-info">Type:</td><td><div class="book-div" data-bind="type"></div></td></tr>
+                    <tr><td class="book-info">Price:</td><td><div class="book-div" data-bind="price"></div></td></tr>
+                    <tr><td class="book-info">School:</td><td><div class="book-div" data-bind="school"></div></td></tr>
+                    <tr><td class="book-info">Semester:</td><td><div class="book-div" data-bind="semester"></div></td></tr>
+                    <tr><td class="book-info">Course:</td><td><div class="book-div" data-bind="class_number"></div></td></tr>
+                    <tr><td class="book-info">Professor:</td><td><div class="book-div" data-bind="professor"></div></td></tr>
+                    <tr><td class="book-info">Contact:</td><td><div class="book-div" data-bind="contact"></div></td></tr>
+                </table>
+            </div>
+            
+        </script>
+
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/lib/zepto.min.js"></script>
+        <script type="text/javascript" src="js/lib/agility.js"></script>
+        <script type="text/javascript" src="js/core.js"></script>
+        <script type="text/javascript" src="js/page/main.js"></script>
+        <script type="text/javascript" src="js/page/manual.js"></script>
+        <script type="text/javascript" src="js/page/options.js"></script>
+        <script type="text/javascript" src="js/page/user_post.js"></script>
+        <script type="text/javascript" src="js/page/book.js"></script>
+        <script type="text/javascript">
+            core.bind();
+            
+            function resize() {
+                document.documentElement.style.fontSize = Math.ceil(document.documentElement.clientHeight * .02) + 'px';
+            }
+            
+        </script>
+    </head>
+    <body>
+
+        <div id="test"></div>
+
+    </body>
+</html>
